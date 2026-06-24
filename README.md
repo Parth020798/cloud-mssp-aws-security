@@ -23,8 +23,7 @@ Wazuh SIEM, and enforced NIST CSF + HIPAA compliance.
 <img width="1404" height="759" alt="Diagram" src="https://github.com/user-attachments/assets/7e9c4148-96ce-4ce1-a54a-b951a668fb39" />
 
 ##cloud-mssp-aws-security/
-│
-├── README.md                 
+│                
 ├── /docs
 │   ├── [Project.docx](https://github.com/user-attachments/files/29282989/Project.docx)
 │   ├── [Final Poject Submission.pdf](https://github.com/user-attachments/files/29283282/Final.Poject.Submission.pdf)
